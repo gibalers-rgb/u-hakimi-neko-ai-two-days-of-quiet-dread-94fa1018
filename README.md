@@ -1,8 +1,8 @@
 # Two Days of Quiet Dread
 
-[![make.fun competition](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/competition)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
-[![make.fun rank](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/rank)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
-[![make.fun reward](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/reward)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+[![make.fun · u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018.svg)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018?utm_source=github&utm_medium=readme&utm_campaign=u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+[![rank](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/gibalers-rgb/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/rank.svg)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+[![reward](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/gibalers-rgb/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/reward.svg)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018?utm_source=github&utm_medium=readme&utm_campaign=u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
 
 A one-line code review comment for the [Two Days of Quiet Dread](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018) bounty on make.fun: a single line of at most 140 characters that approves a pull request while carrying quiet existential dread, judged pairwise by an AI judge.
 
